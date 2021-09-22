@@ -1,0 +1,53 @@
+.div_class{
+  
+  top: 5%;
+  left: 25%;
+  position: absolute;
+  padding:30px 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0.15);
+  text-align: center;
+  min-height: 80%;
+  width: 50%;
+  margin: 40px auto;
+  background-color: white;
+}
+
+
+h1{
+  color: white;
+  background: transparent;
+  text-shadow: 0 2px 2px black;
+  background-color: #848485;
+  padding: 6px 0 3px 0;
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+}
+button{
+  min-height: 40px;
+  width: 70px;
+  border-radius: 8%;
+  border-color: transparent;
+  background-color: #848485;
+  color: #ffff;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+}
+input{
+  text-align: center;
+  height: 30px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 500;
+  width: 60%;
+  border-bottom: 2px solid #848485;
+  outline: none;
+}
+
+
+body{
+  background-image: url("https://media.istockphoto.com/vectors/realistic-notepad-with-spiral-seamless-pattern-background-business-vector-id901221206");
+}
